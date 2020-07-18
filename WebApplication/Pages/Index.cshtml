@@ -1,0 +1,17 @@
+﻿@page
+@using WebApplication.Components
+@model IndexModel
+@{
+    ViewData["Title"] = "Courses";
+}
+
+<div class="text-center"> 
+    <h1 class="display-4">Courses</h1>
+    <p> Welcome! Below is the courses that i've studied at Örebro university! Here you can see what courses and what I did in that specific course and so on.  </p>
+
+</div>
+
+@(await Html.RenderComponentAsync<CoursesList>(RenderMode.ServerPrerendered))
+
+<script src="_framework/blazor.server.js"></script>
+

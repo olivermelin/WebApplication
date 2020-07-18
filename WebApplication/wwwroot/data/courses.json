@@ -1,0 +1,245 @@
+﻿[
+  {
+    "Id": "Database-design",
+    "Maker": "@jenlooper",
+    "img": "https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg",
+    "URL": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
+    "Title": "Database design",
+    "Language": "SQL",
+    "Description": "This course include database design and their relations and laws.",
+    "Grade": 3
+  },
+  {
+    "Id": "Datavetenskapens-grunder",
+    "Maker": "@jenlooper",
+    "img": "https://user-images.githubusercontent.com/41929050/61567049-13938600-aa33-11e9-9c69-a4184bf8e524.jpeg",
+    "URL": "https://www.hackster.io/agent-hawking-1/book-light-dee7e4",
+    "Title": "Basics of computer science",
+    "Language": "Python",
+    "Description": "Studying the basics of computer science and some programming.",
+    "Grade": 4
+  },
+  {
+    "Id": "Linear-algebra",
+    "Maker": "@jenlooper",
+    "img": "https://user-images.githubusercontent.com/41929050/61567053-13938600-aa33-11e9-9780-104fe4019659.png",
+    "URL": "https://www.hackster.io/agent-hawking-1/bling-your-laptop-with-an-internet-connected-light-show-30e4db",
+    "Title": "Algebra and analysis for engineers",
+    "Language": "Mathlab",
+    "Description": "Linear algebra",
+    "Grade": 4
+  },
+  {
+    "Id": "Integral-kalkyl",
+    "Maker": "jenlooper",
+    "img": "https://user-images.githubusercontent.com/41929050/61567051-13938600-aa33-11e9-8ae7-0b5c19aafab4.jpeg",
+    "URL": "https://www.hackster.io/agent-hawking-1/create-a-compact-survival-kit-38bfdb",
+    "Title": "Differential- and integralkalkyl",
+    "Language": "Mathlab",
+    "Description": "Mathcourse for solving derivatives and integrals",
+    "Grade": 4
+  },
+  {
+    "Id": "Programming-basics",
+    "Maker": "sailorhg",
+    "img": "https://user-images.githubusercontent.com/41929050/61567054-13938600-aa33-11e9-9163-eec98e239b7a.png",
+    "URL": "https://twitter.com/sailorhg/status/1090107740049952770",
+    "Title": "Basics of programming",
+    "Language": "C",
+    "Description": "Learning the basics of programming",
+    "Grade": 3
+  },
+  {
+    "Id": "Circuit Theory",
+    "Maker": "sailorhg",
+    "img": "https://user-images.githubusercontent.com/41929050/61567055-142c1c80-aa33-11e9-96ff-9fbac6413625.png",
+    "URL": "https://twitter.com/sailorhg/status/1090113666911891456",
+    "Language": "None",
+    "Title": "Circuit Theory (Elkretsteori)",
+    "Description": "Learning about how circuits and how different componentes work, counting voltage, resistance and Current and much more.",
+    "Grade": 4
+  },
+  {
+    "Id": "Object-oriented-programming",
+    "Maker": "sailorhg",
+    "img": "https://user-images.githubusercontent.com/41929050/61567056-142c1c80-aa33-11e9-8682-10065d338145.png",
+    "URL": "https://twitter.com/sailorhg/status/1090122822007963648",
+    "Title": "Object-oriented programming",
+    "Language": "C++",
+    "Description": "Learning about objects and how they can be used inbetween classes and how they can be accessed through the basics of encapsulation, polymorphism, inheritance.",
+    "Grade": 4
+  },
+  {
+    "Id": "Technique-society",
+    "Maker": "selinazawacki",
+    "img": "https://user-images.githubusercontent.com/41929050/61567052-13938600-aa33-11e9-9a88-cd842073ba44.jpg",
+    "URL": "https://twitter.com/sailorhg/status/1090117277540745216",
+    "Title": "Technique and society in development",
+    "Langugae": "None",
+    "Description": "custom molded heart shaped LED with sprinkles.",
+    "Grade": 3
+  },
+  {
+    "Id": "Datastructures-algorithms",
+    "Maker": "selinazawacki",
+    "img": "https://user-images.githubusercontent.com/41929050/61567060-142c1c80-aa33-11e9-8188-5a4803844a9e.png",
+    "URL": "https://www.instagram.com/p/BNvESj-j8PI/",
+    "Title": "Datastructures and algorithms",
+    "Language": "C",
+    "Description": "Studied a few datastructures and algorithms and their complexities",
+    "Grade": 5
+  },
+  {
+    "Id": "Statistics",
+    "Maker": "selinazawacki",
+    "img": "https://user-images.githubusercontent.com/41929050/61567059-142c1c80-aa33-11e9-939b-2ecf4492786d.png",
+    "URL": "https://www.instagram.com/p/BNm6hZzDoEF/",
+    "Title": "Mathematics and statistics",
+    "Language": "Matlab",
+    "Description": "Statistics",
+    "Grade": 4
+  },
+  {
+    "Id": "Datacommunication-network",
+    "Maker": "vogueandcode",
+    "img": "https://user-images.githubusercontent.com/41929050/61567061-14c4b300-aa33-11e9-9fee-63ff2c0c9823.png",
+    "URL": "https://www.vogueandcode.com/shop/hipster-dev-bro",
+    "Title": "Datacommunication and network",
+    "Language": "Python",
+    "Description": "Learning how computers communicate through the internet and some security",
+    "Grade": 3
+  },
+  {
+    "Id": "Artificial-intelligens",
+    "Maker": "vogueandcode",
+    "img": "https://user-images.githubusercontent.com/41929050/61567062-14c4b300-aa33-11e9-9dcd-8bfed4ece810.png",
+    "URL": "https://www.vogueandcode.com/shop/pretty-girls-code-tee",
+    "Title": "Artificial intelligens",
+    "Language": "Python",
+    "Description": "Studied different algorithms and neural networks and implemented these in the labs.",
+    "Grade": 4
+  },
+  {
+    "Id": "Digital-technique",
+    "Maker": "vogueandcode",
+    "img": "https://user-images.githubusercontent.com/41929050/61567063-14c4b300-aa33-11e9-8515-bcb866da9ea3.png",
+    "URL": "https://www.vogueandcode.com/shop/ruby-sis-2",
+    "Title": "Digital technique",
+    "Language": "VHDL",
+    "Description": "Styled in a dashiki, Ruby Sis is listening to music while coding in her favorite language, Ruby!",
+    "Grade": 3
+  },
+  {
+    "Id": "Computer-science",
+    "Maker": "selinazawacki",
+    "img": "https://user-images.githubusercontent.com/41929050/61567057-142c1c80-aa33-11e9-9781-9e442418eaab.png",
+    "URL": "https://www.instagram.com/p/BFktVYPinKQ/",
+    "Title": "Computer science",
+    "Language": "C and Assembly",
+    "Description": "Learning how a computer is structured and designed, labs were done on an rasberry pie so we used operating system Linux.",
+    "Grade": 3
+  },
+  {
+    "Id": "Real-time-programming",
+    "Maker": "selinazawacki",
+    "img": "https://user-images.githubusercontent.com/41929050/61567058-142c1c80-aa33-11e9-89fb-b4f30d84d69d.png",
+    "URL": "https://www.instagram.com/p/BEXlpiZCnJ3/",
+    "Title": "Real time programming",
+    "Language": "C",
+    "Description": "Studying how different tasks takes turn using a critical section, used an Arduiono to build and code a remote controlling car",
+    "Grade": 3
+  },
+  {
+    "Id": "Jurisprudence",
+    "Maker": "selinazawacki",
+    "img": "https://user-images.githubusercontent.com/41929050/61567058-142c1c80-aa33-11e9-89fb-b4f30d84d69d.png",
+    "URL": "https://www.instagram.com/p/BEXlpiZCnJ3/",
+    "Title": "Jurisprudence",
+    "Language": "None",
+    "Description": "Studying different laws and cases that we needed to solve.",
+    "Grade": 4
+  },
+  {
+    "Id": "System-program-development",
+    "Maker": "selinazawacki",
+    "img": "https://user-images.githubusercontent.com/41929050/61567058-142c1c80-aa33-11e9-89fb-b4f30d84d69d.png",
+    "URL": "https://www.instagram.com/p/BEXlpiZCnJ3/",
+    "Title": "System and program development",
+    "Language": "C#",
+    "Description": "Creating a program for a diving competition in the olympics.",
+    "Grade": 4
+  },
+  {
+    "Id": "System-program-development-2",
+    "Maker": "selinazawacki",
+    "img": "https://user-images.githubusercontent.com/41929050/61567058-142c1c80-aa33-11e9-89fb-b4f30d84d69d.png",
+    "URL": "https://www.instagram.com/p/BEXlpiZCnJ3/",
+    "Title": "System and program development 2",
+    "Language": "Javascript, HTML, CSS, ReactJS, NodeJS",
+    "Description": "Creating a website handling recipes",
+    "Grade": 4
+  },
+  {
+    "Id": "Distributed-systems",
+    "Maker": "selinazawacki",
+    "img": "https://user-images.githubusercontent.com/41929050/61567058-142c1c80-aa33-11e9-89fb-b4f30d84d69d.png",
+    "URL": "https://www.instagram.com/p/BEXlpiZCnJ3/",
+    "Title": "Programming of distributed systems",
+    "Language": "Python, Pygame",
+    "Description": "Learned a how a distributed system works, used algorithms an such to complete the labs",
+    "Grade": 3
+  },
+  {
+    "Id": "Simulation-visualization",
+    "Maker": "selinazawacki",
+    "img": "https://user-images.githubusercontent.com/41929050/61567058-142c1c80-aa33-11e9-89fb-b4f30d84d69d.png",
+    "URL": "https://www.instagram.com/p/BEXlpiZCnJ3/",
+    "Title": "Simulation and visualization",
+    "Language": "OpenGL, C",
+    "Description": "Worked on the graphics using different methods and how they was different from each other.",
+    "Grade": 4
+  },
+  {
+    "Id": "Programquality",
+    "Maker": "selinazawacki",
+    "img": "https://user-images.githubusercontent.com/41929050/61567058-142c1c80-aa33-11e9-89fb-b4f30d84d69d.png",
+    "URL": "https://www.instagram.com/p/BEXlpiZCnJ3/",
+    "Title": "Programquality",
+    "Language": "C#",
+    "Description": "Worked on a previous project where we improved the system quality and their attributes.",
+    "Grade": 4
+  },
+  {
+    "Id": "Entrepreneurship",
+    "Maker": "selinazawacki",
+    "img": "https://user-images.githubusercontent.com/41929050/61567058-142c1c80-aa33-11e9-89fb-b4f30d84d69d.png",
+    "URL": "https://www.instagram.com/p/BEXlpiZCnJ3/",
+    "Title": "Entrepreneurship for engineers",
+    "Language": "None",
+    "Description": "Learning about how to start a company what needs to be done.",
+    "Grade": 3
+  },
+  {
+    "Id": "Mathematics",
+    "Maker": "selinazawacki",
+    "img": "https://user-images.githubusercontent.com/41929050/61567058-142c1c80-aa33-11e9-89fb-b4f30d84d69d.png",
+    "URL": "https://www.instagram.com/p/BEXlpiZCnJ3/",
+    "Title": "Introduction to mathematics",
+    "Language": "None",
+    "Description": "A course of 2 weeks to refresh your math skills",
+    "Grade": 3
+  },
+  {
+    "Id": "Exam-work",
+    "Maker": "selinazawacki",
+    "img": "https://user-images.githubusercontent.com/41929050/61567058-142c1c80-aa33-11e9-89fb-b4f30d84d69d.png",
+    "URL": "https://www.instagram.com/p/BEXlpiZCnJ3/",
+    "Title": "Exam work",
+    "Language": "C#",
+    "Description": "Performed an exam work at HiQ. We created a recorder that is being used on the engines after they have been created. It will record the data during a test.",
+    "Grade": 4
+  }
+
+
+
+]
