@@ -1,0 +1,10 @@
+﻿@page
+
+@model WebApplication.Models.Search
+
+@using (Html.BeginForm("Search", "Home", FormMethod.Post))
+{
+    @Html.TextBoxFor(model => model.Searchedfor)
+    @Html.ValidationMessageFor(model => model.Searchedfor)
+    <button type="submit">Subscribe</button>
+}

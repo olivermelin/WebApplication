@@ -169,4 +169,59 @@ ul {
     background-color: #ffc3a0;
     height: 800px;
 }
+.active-pink-3 active-pink-4 mb-4{
+    width: 200px;
+}
+.form-control {
+    width: 200px;
+    align-content: center;
+    margin: 0 auto;
+}
+
+
+/*For the search bar*/
+
+* {
+    
+    border-radius: 15px;
+}
+
+/* Style the search field */
+form.Courses input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 70%;
+    background: #f1f1f1;
+    border-radius: 15px;
+}
+
+/* Style the submit button */
+form.Courses button {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    background: #2196F3;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    cursor: pointer;
+    border-radius: 15px;
+    margin-left: 10px;
+}
+
+    form.Courses button:hover {
+        background: #0b7dda;
+    }
+
+/* Clear floats */
+form.Courses::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+input {
+    outline: none;
+}
 
