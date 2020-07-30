@@ -12,7 +12,7 @@
   {
     "Id": "Datavetenskapens-grunder",
     "Maker": "@jenlooper",
-    "img": "https://user-images.githubusercontent.com/41929050/61567049-13938600-aa33-11e9-9c69-a4184bf8e524.jpeg",
+    "img": "https://cdn.pixabay.com/photo/2019/12/23/22/31/computer-science-4715556_960_720.jpg",
     "URL": "https://www.hackster.io/agent-hawking-1/book-light-dee7e4",
     "Title": "Basics of computer science",
     "Language": "Python",
@@ -22,7 +22,7 @@
   {
     "Id": "Linear-algebra",
     "Maker": "@jenlooper",
-    "img": "https://user-images.githubusercontent.com/41929050/61567053-13938600-aa33-11e9-9780-104fe4019659.png",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Linear_subspaces_with_shading.svg/1280px-Linear_subspaces_with_shading.svg.png",
     "URL": "https://www.hackster.io/agent-hawking-1/bling-your-laptop-with-an-internet-connected-light-show-30e4db",
     "Title": "Algebra and analysis for engineers",
     "Language": "Mathlab",
@@ -32,7 +32,7 @@
   {
     "Id": "Integral-kalkyl",
     "Maker": "jenlooper",
-    "img": "https://user-images.githubusercontent.com/41929050/61567051-13938600-aa33-11e9-8ae7-0b5c19aafab4.jpeg",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/17/Wag-149-Maxima_and_Minima_of_Two_Functions.png",
     "URL": "https://www.hackster.io/agent-hawking-1/create-a-compact-survival-kit-38bfdb",
     "Title": "Differential- and integralkalkyl",
     "Language": "Mathlab",
@@ -42,7 +42,7 @@
   {
     "Id": "Programming-basics",
     "Maker": "sailorhg",
-    "img": "https://user-images.githubusercontent.com/41929050/61567054-13938600-aa33-11e9-9163-eec98e239b7a.png",
+    "img": "data:image/jpeg;base64,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",
     "URL": "https://twitter.com/sailorhg/status/1090107740049952770",
     "Title": "Basics of programming",
     "Language": "C",
@@ -52,7 +52,7 @@
   {
     "Id": "Circuit Theory",
     "Maker": "sailorhg",
-    "img": "https://user-images.githubusercontent.com/41929050/61567055-142c1c80-aa33-11e9-96ff-9fbac6413625.png",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Zero-ripple-isolated-cuk-converter.png",
     "URL": "https://twitter.com/sailorhg/status/1090113666911891456",
     "Language": "None",
     "Title": "Circuit Theory (Elkretsteori)",
@@ -62,7 +62,7 @@
   {
     "Id": "Object-oriented-programming",
     "Maker": "sailorhg",
-    "img": "https://user-images.githubusercontent.com/41929050/61567056-142c1c80-aa33-11e9-8682-10065d338145.png",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/CPT-OOP-objects_and_classes_-_attmeth.svg/1280px-CPT-OOP-objects_and_classes_-_attmeth.svg.png",
     "URL": "https://twitter.com/sailorhg/status/1090122822007963648",
     "Title": "Object-oriented programming",
     "Language": "C++",
@@ -72,7 +72,7 @@
   {
     "Id": "Technique-society",
     "Maker": "selinazawacki",
-    "img": "https://user-images.githubusercontent.com/41929050/61567052-13938600-aa33-11e9-9a88-cd842073ba44.jpg",
+    "img": "https://p0.pikrepo.com/preview/204/109/person-writing-with-their-right-hand-using-fountain-pen-thumbnail.jpg",
     "URL": "https://twitter.com/sailorhg/status/1090117277540745216",
     "Title": "Technique and society in development",
     "Langugae": "None",
@@ -142,7 +142,7 @@
   {
     "Id": "Real-time-programming",
     "Maker": "selinazawacki",
-    "img": "https://user-images.githubusercontent.com/41929050/61567058-142c1c80-aa33-11e9-89fb-b4f30d84d69d.png",
+    "img": "https://live.staticflickr.com/2098/3539778700_83369be081_b.jpg",
     "URL": "https://www.instagram.com/p/BEXlpiZCnJ3/",
     "Title": "Real time programming",
     "Language": "C",
