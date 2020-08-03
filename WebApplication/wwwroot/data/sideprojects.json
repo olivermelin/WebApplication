@@ -1,11 +1,18 @@
 [
   {
     "Id": "Space-rocket",
+    "Maker": "@jenlooper",
     "Language": "Python, pygame",
-    "Description": "2D-game",
-    "Title": "Space rocket"
+    "Description": "2D-game that is challenging in many ways.",
+    "Title": "Space rocket",
+    "Image": "https://cdn.pixabay.com/photo/2019/12/23/22/31/computer-science-4715556_960_720.jpg"
   },
   {
-
+    "Id": "Space-rocket2",
+    "Maker": "@jenlooper",
+    "Language": "Python, pygame",
+    "Description": "2D-game",
+    "Title": "Space rocket2",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Zero-ripple-isolated-cuk-converter.png"
   }
 ]

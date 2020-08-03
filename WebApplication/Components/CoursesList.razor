@@ -1,6 +1,8 @@
 ﻿
 @using Microsoft.AspNetCore.Components.Web
 @using WebApplication.Models
+
+@using WebApplication.Components
 @using WebApplication.Services
 @inject JsonFileCourseService CourseService
 
@@ -67,8 +69,4 @@
         selectedCourse = CourseService.GetCourses().First(x => x.Id == courseId);
     }
 
-    void SearchedCourses()
-    {
-
-    }
 }

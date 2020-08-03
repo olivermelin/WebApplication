@@ -1,11 +1,12 @@
 ﻿@page
+@using WebApplication.Components
 @model SideProjectsModel
 @{
     ViewData["Title"] = "SideProjects";
 }
-    <h1>@ViewData["Title"]</h1>
 
-    <h1>SideProjects</h1>
-    <h1>SideProjects</h1>
-    <h1>SideProjects</h1>
+<h1>@ViewData["Title"]</h1>
 
+
+@(await Html.RenderComponentAsync<ProjectsList>(RenderMode.ServerPrerendered))
+<script src="_framework/blazor.server.js"></script>
