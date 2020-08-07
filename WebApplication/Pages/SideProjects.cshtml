@@ -5,8 +5,7 @@
     ViewData["Title"] = "SideProjects";
 }
 
-<h1>@ViewData["Title"]</h1>
+<h1 style = "text-align: center">@ViewData["Title"]</h1>
 
 
 @(await Html.RenderComponentAsync<ProjectsList>(RenderMode.ServerPrerendered))
-<script src="_framework/blazor.server.js"></script>

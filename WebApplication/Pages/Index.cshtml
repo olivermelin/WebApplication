@@ -10,19 +10,7 @@
     <h1 class="display-4">Courses</h1>
     <p> Welcome! Below is the courses that i've studied at Örebro university! Here you can see what courses and what I did in that specific course and so on.  </p>
 
-    <form asp-action="Index" class="form-horizontal">
-        <div class="form-group">
-            <input asp-action="Id" class="form-control"/>
-            <button type="submit">Search</button>
-        </div>
-    </form>
 
-    <!-- The form -->
-    <form asp-action="Courses">
-        <input type="text" id="txtCourse" value="courses" placeholder="Search.." name="search">
-        <button type="submit"><i class="fa fa-search"></i></button>
-    </form>
-        <br />
 </div>
 
 @(await Html.RenderComponentAsync<CoursesList>(RenderMode.ServerPrerendered))

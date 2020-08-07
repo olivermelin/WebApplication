@@ -61,7 +61,7 @@ namespace WebApplication
             {
                 endpoints.MapRazorPages();
                 endpoints.MapControllers();
-                endpoints.MapBlazorHub(); // maps the razor productlist
+                endpoints.MapBlazorHub(); // maps the razor courselist
                 //endpoints.MapGet("/products", (context) =>
                 //{
                 //    var products = app.ApplicationServices.GetService<JsonFileProductService>().GetProducts();
